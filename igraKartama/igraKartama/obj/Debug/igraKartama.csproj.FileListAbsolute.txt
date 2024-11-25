@@ -1,0 +1,7 @@
+C:\Users\Učenik\source\repos\igraKartama\igraKartama\bin\Debug\igraKartama.exe.config
+C:\Users\Učenik\source\repos\igraKartama\igraKartama\bin\Debug\igraKartama.exe
+C:\Users\Učenik\source\repos\igraKartama\igraKartama\bin\Debug\igraKartama.pdb
+C:\Users\Učenik\source\repos\igraKartama\igraKartama\obj\Debug\igraKartama.csproj.AssemblyReference.cache
+C:\Users\Učenik\source\repos\igraKartama\igraKartama\obj\Debug\igraKartama.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\source\repos\igraKartama\igraKartama\obj\Debug\igraKartama.exe
+C:\Users\Učenik\source\repos\igraKartama\igraKartama\obj\Debug\igraKartama.pdb
